@@ -9,7 +9,8 @@
 ---
 
 ## Education
-- **M.Eng., Automated Engineering** | École de Technologie Supérieure (ETS), Montreal _(2020 - 2022)_
+- **P.hD. candidate, System Engineering** | École de Technologie Supérieure (ETS), Montreal _(2025 - current)_
+- **M.Sc., Automated Engineering** | École de Technologie Supérieure (ETS), Montreal _(2020 - 2022)_
   - Focus: Self-supervised learning, unsupervised algorithms, and computer vision without manual annotations.
 - **M.Sc., Information Technology Engineering** | University of Guilan, Rasht _(2013 - 2015)_
   - Focus: Evaluating edge detection methods in remote sensing images using fuzzy logic.
