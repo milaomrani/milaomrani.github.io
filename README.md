@@ -9,7 +9,6 @@
 ---
 
 ## Education
-- **P.hD., System Engineering** | École de Technologie Supérieure (ETS), Montreal _(2025 - current)_
 - **M.Eng., Automated Engineering** | École de Technologie Supérieure (ETS), Montreal _(2020 - 2022)_
   - Focus: Self-supervised learning, unsupervised algorithms, and computer vision without manual annotations.
 - **M.Sc., Information Technology Engineering** | University of Guilan, Rasht _(2013 - 2015)_
