@@ -22,6 +22,7 @@
 ### **Data Analytics Developer** | Trinnex (Remote, Toronto) _(Nov 2023 – Present)_
 - Developed and implemented ML techniques to enhance client solutions and existing products.
 - Automated data preprocessing and analysis pipelines using Google Cloud Platform (Vertex AI).
+  [LeadCast](https://www.trinnex.io/products/leadcast/leadcast-predict)
 
 ### **Data Science Faculty Member** | Montreal College of IT (Remote, Montreal) _(July 2023 – Dec 2023)_
 - Taught Data Science, Python Programming, and Machine Learning.
@@ -48,9 +49,12 @@
 
 ## Academic Achievements & Publications
 1. **Simultaneous Detection of Regular Patterns in Ancient Manuscripts Using GAN-Based Deep Unsupervised Segmentation.** _ICPR Workshops, 2021._
-2. **A Two-Stage Unsupervised Deep Learning Framework for Degradation Removal in Ancient Documents.** _ICPR Workshops, 2021._
-3. **Overcoming Limited Dataset Issues in the Semiconductor Domain Using Deep Learning.** _NEWCAS Conference, 2019._
-4. **Evaluation of Fuzzy Edge Detection in Remote Sensing Images.** _Master’s Thesis, 2015._
+   [Publication](https://link.springer.com/chapter/10.1007/978-3-030-68787-8_20)
+3. **A Two-Stage Unsupervised Deep Learning Framework for Degradation Removal in Ancient Documents.** _ICPR Workshops, 2021._
+   [Publication]([https://link.springer.com/chapter/10.1007/978-3-030-68787-8_20](https://link.springer.com/chapter/10.1007/978-3-030-68787-8_21))
+5. **Overcoming Limited Dataset Issues in the Semiconductor Domain Using Deep Learning.** _NEWCAS Conference, 2019._
+   [Publication](https://ieeexplore.ieee.org/abstract/document/8961246))
+7. **Evaluation of Fuzzy Edge Detection in Remote Sensing Images.** _Master’s Thesis, 2015._
 
 ---
 
