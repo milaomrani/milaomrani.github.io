@@ -32,6 +32,8 @@
 
 ### **AI Developer** | 36PIX (Montreal) _(Dec 2022 – June 2023)_
 - Built Computer Vision and Image Processing solutions, including a pix2pix GAN for high-quality image synthesis.
+  - [Glare Correction](https://www.36pix.com/glasses-glare/)
+  - [Color Correction](https://www.36pix.com/color-correction/)
 - Developed data augmentation pipelines and AutoEncoder-based architectures for state-of-the-art image generation.
 
 ### **AI Developer** | Blue Marble Media (Orlando) _(Dec 2020 – Dec 2022)_
