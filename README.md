@@ -51,7 +51,7 @@
 1. **Simultaneous Detection of Regular Patterns in Ancient Manuscripts Using GAN-Based Deep Unsupervised Segmentation.** _ICPR Workshops, 2021._
    [Publication](https://link.springer.com/chapter/10.1007/978-3-030-68787-8_20)
 3. **A Two-Stage Unsupervised Deep Learning Framework for Degradation Removal in Ancient Documents.** _ICPR Workshops, 2021._
-   [Publication]([https://link.springer.com/chapter/10.1007/978-3-030-68787-8_20](https://link.springer.com/chapter/10.1007/978-3-030-68787-8_21))
+   [Publication](https://link.springer.com/chapter/10.1007/978-3-030-68787-8_21)
 5. **Overcoming Limited Dataset Issues in the Semiconductor Domain Using Deep Learning.** _NEWCAS Conference, 2019._
    [Publication](https://ieeexplore.ieee.org/abstract/document/8961246))
 7. **Evaluation of Fuzzy Edge Detection in Remote Sensing Images.** _Master’s Thesis, 2015._
