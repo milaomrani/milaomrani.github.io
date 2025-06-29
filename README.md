@@ -19,7 +19,7 @@
 
 ## Work Experience
 
-### **Data Analytics Developer** | Trinnex (Remote, Toronto) _(Nov 2023 – Present)_
+### **Senior Data Analytics Developer** | Trinnex (Remote, Toronto) _(Nov 2023 – Present)_
 - Developed and implemented ML techniques to enhance client solutions and existing products.
 - Automated data preprocessing and analysis pipelines using Google Cloud Platform (Vertex AI).
   - [LeadCast](https://www.trinnex.io/products/leadcast/leadcast-predict)
